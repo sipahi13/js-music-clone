@@ -8,4 +8,4 @@ HTML, CSS VE JAVA SCRİPT kullanılarak dinamik bir yapı tasarlanmıştır
 
 <h2> Ekran Görüntüsü</h2>
 
-![](Ekran%20Kaydı%202023-12-06%2020.42.39.mov)
+![](Screen%20.gif)
